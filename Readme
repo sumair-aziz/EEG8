@@ -1,0 +1,7 @@
+EEG Data for eye blink Dataset to evaluate eye artifact correction algorithms in electroencephalographic (EEG) data. The sampling frequency of EEG signal was 250 Hz. EEG signal data consists of 20 channels.
+
+File description:
+P1.mat, attention level: 52
+P2.mat, attention level: 10 
+P3.mat, attention level: 72
+P4.mat, attention level: 7
